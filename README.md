@@ -22,7 +22,7 @@
 - 📫 Connect with me via email: adityachavhan11@gmail.com
 - ▶️ Watch my tutorials and insights on YouTube: Core Java Hub
 - 📄 Review my professional experience and qualifications in my Resume.
-⚡ Fun fact: I bring a positive, friendly attitude to every challenge I tackle.
+- ⚡ Fun fact: I bring a positive, friendly attitude to every challenge I tackle.
 
 ### 🏆 Achievements:
 - 🎓 **Certified Java Developer** - Oracle
@@ -107,4 +107,4 @@
 </p>
 
 ### Footer:
-<img src="https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/footer.gif" alt="Footer GIF" />
+<img src="[https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/footer.gif](https://blog.hubspot.com/website/website-footer)" alt="Footer GIF" />
