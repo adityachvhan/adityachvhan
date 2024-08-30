@@ -93,10 +93,12 @@
 </p>
 
 ### Stats and Activity:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-chavhan&show_icons=true&locale=en&layout=compact" alt="Aditya Chavhan's Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-chavhan&show_icons=true&locale=en" alt="Aditya Chavhan's GitHub Stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chavhan&theme=blue-green" alt="GitHub Streak" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=aditya-chavhan&bg_color=ffffff&color=0e75b6&line=000000&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachavhan&show_icons=true&locale=en&layout=compact" alt="Aditya Chavhan's Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavhan&show_icons=true&locale=en" alt="Aditya Chavhan's GitHub Stats" /></p>
+add some more feature for this profile which will be standout from other and need animation and gif and photos
+
+
 
 ### Divider:
 <img src="https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/divider.gif" alt="divider" width="100%">
