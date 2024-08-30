@@ -16,16 +16,17 @@
   <img src="https://komarev.com/ghpvc/?username=aditya-chavhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> 
 </p>
 
-- 🔭 I’m currently working on a **Banking Application**
-- 👨‍💻 All of my projects are available at [Netlify Portfolio](https://app.netlify.com/teams/adityachvhan/sites)
-- 💬 Ask me about **React JS, Spring, REST API**
-- 📫 How to reach me: **adityachavhan11@gmail.com**
-- 📄 Check out my resume: [Resume Link](https://drive.google.com/file/d/1xeTTK2wavPY2olMFQ_oER7TvNxWd70YB/view?usp=drive_link)
-- ⚡ Fun fact: **I think I am funny and friendly**
+- 🔭 Currently working as a Java Developer, focusing on cutting-edge solutions in software development.
+- 👨‍💻 Explore my portfolio and projects on Netlify Portfolio.
+- 💬 Feel free to reach out for discussions on React JS, Spring, REST APIs, and other development technologies.
+- 📫 Connect with me via email: adityachavhan11@gmail.com
+- ▶️ Watch my tutorials and insights on YouTube: Core Java Hub
+- 📄 Review my professional experience and qualifications in my Resume.
+⚡ Fun fact: I bring a positive, friendly attitude to every challenge I tackle.
 
 ### 🏆 Achievements:
 - 🎓 **Certified Java Developer** - Oracle
-- 🥇 **Top Performer** - CodeJam 2023
+
 
 ### Connect with me:
 <p align="left">
@@ -96,8 +97,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachavhan&show_icons=true&locale=en&layout=compact" alt="Aditya Chavhan's Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavhan&show_icons=true&locale=en" alt="Aditya Chavhan's GitHub Stats" /></p>
-add some more feature for this profile which will be standout from other and need animation and gif and photos
-
 
 
 ### Divider:
