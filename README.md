@@ -27,7 +27,6 @@
 ### 🏆 Achievements:
 - 🎓 **Certified Java Developer** - Oracle
 
-
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/aditya-chavhan" target="_blank">
@@ -94,15 +93,14 @@
 </p>
 
 ### Stats and Activity:
-<!-- Stats and Activity Title -->
-<h3>Stats and Activity:</h3>
+<!-- Most Used Language Section -->
+<h3>Most Used Language by Aditya Chavhan:</h3>
 
-<!-- Animated Language Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachavhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aditya Chavhan's Top Languages" />
+<p align="left">
+  <strong>Java</strong> – Java is my primary programming language, used extensively for back-end development, creating RESTful APIs, and full-stack development with Spring Boot and React.
 </p>
 
-<!-- Animated Circular GitHub Stats -->
+<!-- Animated GitHub Stats -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavhan&show_icons=true&theme=cobalt&locale=en" alt="Aditya Chavhan's GitHub Stats" />
 </p>
@@ -112,14 +110,8 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityachavhan&theme=react-dark&hide_border=true&area=true" alt="Aditya's Contribution Graph" />
 </p>
 
-
-
 ### Divider:
 <img src="https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/divider.gif" alt="divider" width="100%">
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/aditya-chavhan/count.svg" alt="Aditya Chavhan Profile Views" /> 
-</p>
-
-### Footer:
-<img src="[https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/footer.gif](https://blog.hubspot.com/website/website-footer)" alt="Footer GIF" />
+  <img src="https://profile-counter.glitch.me/aditya-chavhan/count.svg" alt="Aditya Chav
