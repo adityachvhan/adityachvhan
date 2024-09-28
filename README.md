@@ -94,9 +94,24 @@
 </p>
 
 ### Stats and Activity:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachavhan&show_icons=true&locale=en&layout=compact" alt="Aditya Chavhan's Top Languages" /></p>
+<!-- Stats and Activity Title -->
+<h3>Stats and Activity:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavhan&show_icons=true&locale=en" alt="Aditya Chavhan's GitHub Stats" /></p>
+<!-- Animated Language Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachavhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aditya Chavhan's Top Languages" />
+</p>
+
+<!-- Animated Circular GitHub Stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachavhan&show_icons=true&theme=cobalt&locale=en" alt="Aditya Chavhan's GitHub Stats" />
+</p>
+
+<!-- Animated Commit Graph -->
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityachavhan&theme=react-dark&hide_border=true&area=true" alt="Aditya's Contribution Graph" />
+</p>
+
 
 
 ### Divider:
