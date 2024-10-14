@@ -16,18 +16,24 @@
   <img src="https://komarev.com/ghpvc/?username=aditya-chavhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> 
 </p>
 
-- 🔭 Currently working as a Java Developer, focusing on cutting-edge solutions in software development.
-- 👨‍💻 Explore my portfolio and projects on Netlify Portfolio.
-- 💬 Feel free to reach out for discussions on React JS, Spring, REST APIs, and other development technologies.
-- 📫 Connect with me via email: adityachavhan11@gmail.com
-- ▶️ Watch my tutorials and insights on YouTube: Core Java Hub
-- 📄 Review my professional experience and qualifications in my Resume.
-- ⚡ Fun fact: I bring a positive, friendly attitude to every challenge I tackle.
+### 🔭 About Me
+- Currently working as a **Java Developer**, focusing on cutting-edge solutions in software development.
+- Explore my portfolio and projects on [Netlify Portfolio](your_portfolio_link).
+- Feel free to reach out for discussions on **React JS**, **Spring**, **REST APIs**, and other development technologies.
+- Connect with me via email: [adityachavhan11@gmail.com](mailto:adityachavhan11@gmail.com)
+- Watch my tutorials and insights on [YouTube: Core Java Hub](your_youtube_link).
+- Review my professional experience and qualifications in my [Resume](your_resume_link).
+- Fun fact: I bring a positive, friendly attitude to every challenge I tackle.
 
-### 🏆 Achievements:
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+
+### 🏆 Achievements
 - 🎓 **Certified Java Developer** - Oracle
 
-### Connect with me:
+### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/aditya-chavhan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -46,7 +52,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+### ⚙️ Languages and Tools
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -92,12 +98,10 @@
   <img src="https://img.shields.io/badge/Spring-Boot-blue?logo=spring&style=for-the-badge" alt="Spring Badge" />
 </p>
 
-### Stats and Activity:
-<!-- Most Used Language Section -->
-<h3>Most Used Language by Aditya Chavhan:</h3>
-
+### 📊 Stats and Activity
+#### Most Used Language
 <p align="left">
-  <strong>Java</strong> – Java is my primary programming language, used extensively for back-end development, creating RESTful APIs, and full-stack development with Spring Boot and React.
+  <strong>Java</strong> – My primary programming language, used extensively for back-end development, creating RESTful APIs, and full-stack development with Spring Boot and React.
 </p>
 
 <!-- Animated GitHub Stats -->
@@ -110,8 +114,11 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityachavhan&theme=react-dark&hide_border=true&area=true" alt="Aditya's Contribution Graph" />
 </p>
 
-### Divider:
+### Divider
 <img src="https://raw.githubusercontent.com/aditya-chavhan/aditya-chavhan/main/divider.gif" alt="divider" width="100%">
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/aditya-chavhan/count.svg" alt="Aditya Chav
+  <img src="https://profile-counter.glitch.me/aditya-chavhan/count.svg" alt="Aditya Chavhan's Visitor Counter" />
+</p>
+
+
