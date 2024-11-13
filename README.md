@@ -28,6 +28,18 @@
 
 <br clear="both">
 
+
+
+## 🔭 I’m currently working on
+
+- E-Commerce application using Spring Boot
+
+## 🌱 Currently Learning
+
+- Thymeleaf Templates
+- JavaScript
+- Microservices Architecture
+
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
 ### 🏆 Achievements
