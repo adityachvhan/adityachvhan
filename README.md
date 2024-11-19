@@ -28,17 +28,18 @@
 
 <br clear="both">
 
+## 🔭 Currently Working On
 
-
-## 🔭 I’m currently working on
-
-- E-Commerce application using Spring Boot
+- Developing a Twitter Clone application using Spring Boot.
 
 ## 🌱 Currently Learning
 
-- Thymeleaf Templates
-- JavaScript
-- Microservices Architecture
+- Tailwind CSS for responsive and modern UI design.
+- CI/CD Pipelines to streamline deployment and delivery processes.
+- Microservices Architecture for scalable and modular application development.
+- Jenkins for automating build and deployment workflows.
+
+  <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
